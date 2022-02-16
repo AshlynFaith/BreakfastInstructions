@@ -58,8 +58,7 @@ and in the refrigerator\*
 > **(Optional)** Add ¼ sliced pear and 1 tbsp. chopped almonds. Top with
 > 1 tsp. of honey.
 >
-> ![](images/media/image4.jpeg){width="4.351388888888889in"
-> height="2.172222222222222in"}
+>> ![**Figure 4. Oatmeal with Pears and Almonds**](images/media/image4.jpeg)
 
-**Figure 4. Oatmeal with Pears and Almonds**
-<https://www.today.com/recipes/oatmeal-pear-almonds-recipe-t165151>
+
+**Figure 4. Oatmeal with Pears and Almonds** <https://www.today.com/recipes/oatmeal-pear-almonds-recipe-t165151>

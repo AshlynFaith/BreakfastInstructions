@@ -123,8 +123,7 @@ and in the refrigerator\*
 
     b.  Pour onto cooked pancakes
 
-![](images/media/image3.jpeg){width="4.772916666666666in"
-height="2.6847222222222222in"}
+![](images/media/image3.jpeg)
 
 **Figure 3. Cinnamon Roll Pancakes**
 

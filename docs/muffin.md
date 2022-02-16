@@ -50,8 +50,7 @@ heats quickly.
 
     b.  Fold the egg and finish cooking for 1 minute. Set eggs to side.
 
-3.  ![](images/media/image5.jpeg){width="1.675in" height="1.675in"}Slice
-    ½ inch of ground sausage patties.
+3.  Slice ½ inch of ground sausage patties.
 
 4.  Leaving stove on medium-high heat, recoat skillet and place back on
     the stove.
@@ -68,3 +67,10 @@ heats quickly.
     muffin. Put the muffin together.
 
 9.  Eat while warm and enjoy!
+
+>>>>> ![Figure 5. Sausage, Egg, and Cheese](images/media/image5.jpeg)
+
+**Figure 5. Sausage, Egg, and Cheese Muffin**
+
+Picture from:
+https://www.reddit.com/r/food/comments/f2exs2/homemade_sausage_egg_and_cheese_english_muffin/
