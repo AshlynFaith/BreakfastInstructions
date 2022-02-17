@@ -15,11 +15,13 @@ pancakes and cinnamon rolls. I hope you enjoy!
 \*The following can be found in the cabinet left of the refrigerator and
 the drawer beside the sink\*
 
--   ![](images/media/image1.jpeg){width="1.6111111111111112in"
-    height="1.6111111111111112in"}Large and small bowl (or measuring cup
+  
+  - Large and small bowl (or measuring cup
     can be used)
 
--   Whisk **(Figure 1)**
+ 
+>>>>>![](images/media/image1.jpeg)
+ **Figure 1.** Whisk 
 
 -   Measuring cup
 
@@ -36,10 +38,11 @@ the drawer beside the sink\*
 ## Ingredients 
 
 \*The following can be found in the cabinet right of the microwave
-
 and in the refrigerator\*
 
-![](images/media/image2.jpeg){width="1.48125in" height="1.48125in"}
+
+>>>>>![](images/media/image2.jpeg) 
+**Figure 2.** Pastry Bag
 
 **For the cinnamon pancakes:**
 
