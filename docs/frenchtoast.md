@@ -51,8 +51,7 @@ and in the refrigerator\*
 
 4.  Pour substance from bowl into skillet, mix, and set to the side
 
-5.  ![](images/media/image6.jpeg){width="2.0180555555555557in"
-    height="3.027083333333333in"}Pour enough liquid mix onto a plate to
+5. Pour enough liquid mix onto a plate to
     dip bread.
 
 6.  Set stove between medium and medium-high. Place skillet.
@@ -70,6 +69,7 @@ and in the refrigerator\*
 
 10. Repeat for as many pieces as you want.
 
+>>![](images/media/image6.jpeg)
 **Figure 6. Berry French Toast**
 
-**Picture from: <https://foodwithfeeling.com/easy-french-toast/>**
+Picture from: <https://foodwithfeeling.com/easy-french-toast/>
